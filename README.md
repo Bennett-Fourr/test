@@ -6,7 +6,7 @@
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click here to fix issue</a> 
 
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Bennett-Fourr)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Bennett-Fourr&mode=weekly)](https://git.io/streak-stats)
 </p>
 <p></p>
 <p></p>
